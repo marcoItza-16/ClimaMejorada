@@ -2,6 +2,7 @@ package com.example.appclima
 //Ciudad
 //Cidadd2
 //Ciudad
+//Merida
 //ciudad4
 class Ciudad (nombre:String, grados:Int, estatus:String){
     var nombre:String = ""
