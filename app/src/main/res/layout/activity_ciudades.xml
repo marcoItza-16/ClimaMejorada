@@ -7,7 +7,7 @@
     android:background="@color/design_default_color_primary_variant"
     android:orientation="vertical"
     tools:context=".Ciudades">
-//Act Ciudadess
+//Act Ciudadesss
     <TextView
         android:id="@+id/textView"
         android:layout_width="match_parent"
